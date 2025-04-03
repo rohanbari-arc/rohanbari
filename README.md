@@ -24,6 +24,7 @@ fields_of_interest:
     [
         "Mobile App Development",
         "Data Structure & Algorithms",
+        "Full-stack apps",
         "Electronics",
         "Mathematics",
     ]
